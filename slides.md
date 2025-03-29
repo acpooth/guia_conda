@@ -156,8 +156,14 @@ canal (*channel*) **conda-forge** como repositorio de *software* principal.
 <br>
 <br>
 
+Puedes ver instrucciones para su instalación <span v-mark.underline.orange="{at: 0}">[aqui]()</span>... 
 
-Consulta su <span v-mark.circle.orange>[perfil de GitHub](https://github.com/conda-forge/miniforge)</span> para encontrar las indicaciones de descarga.
+
+...o...
+
+
+... o consulta el <span v-mark.underline.orange="{at: 0}">[perfil de GitHub](https://github.com/conda-forge/miniforge)</span> de 
+`conda-forge` para mas información.
 
 
 <style>
