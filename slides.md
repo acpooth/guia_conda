@@ -625,11 +625,14 @@ Contáctanos:
 
 [ubmi@ifc.unam.mx](mailto:ubmi@ifc.unam.mx)
 
-<!-- [GitHub](https://github.com/slidevjs/slidev) · [Showcases](https://sli.dev/resources/showcases) -->
+## También puedes ver:
+- Nuestra presentación instalación de miniforge -> [AQUI](https://acpooth.github.io/guia_conda/1)
+- Nuestro tutorial escrito -> [AQUI](https://ubmi-ifc.github.io/Tutoriales-IFC/manuales/usuarios_ubmi/conda_ambientes_virtuales)
 
+<div style="text-align: center;">
+ <PoweredBySlidev mt-10 /> 
+</div>
 
-
-<PoweredBySlidev mt-10 />
 
 <footer class="absolute bottom-5 left-93% right-0 p-2"> <Link to="2"><div class="i-carbon:home" /></Link>  </footer>
 
