@@ -626,7 +626,7 @@ Contáctanos:
 [ubmi@ifc.unam.mx](mailto:ubmi@ifc.unam.mx)
 
 ## También puedes ver:
-- Nuestra presentación instalación de miniforge -> [AQUI](https://acpooth.github.io/guia_conda/1)
+- Nuestra presentación instalación de miniforge -> [AQUI](https://ubmi-ifc.github.io/instalacion_miniforge/1)
 - Nuestro tutorial escrito -> [AQUI](https://ubmi-ifc.github.io/Tutoriales-IFC/manuales/usuarios_ubmi/conda_ambientes_virtuales)
 
 <div style="text-align: center;">
